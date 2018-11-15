@@ -1,5 +1,8 @@
 # AngularTourOfHeroes
 
+I created this project to learn Angular 6 following this tutorial: (https://angular.io/tutorial/)
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.6.
 
 ## Development server
